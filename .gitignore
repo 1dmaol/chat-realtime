@@ -1,0 +1,5 @@
+# ignore enviroment variables
+.env
+
+node_modules
+*-lock.json
